@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+/**/
+.container {
+  margin-top: 10%;
+  width: 100%;
+  font-family: "Droid Arabic Naskh", serif !important;
+  display: flex;
+  justify-content: center;
+}
+.sys {
+  font-family: "Droid Arabic Naskh", serif;
+}
+.formDiv {
+  background: white;
+  width: 400px;
+  font-family: "Droid Arabic Naskh", serif;
+  padding: 30px;
+  border-radius: 10px;
+  -webkit-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  -moz-box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+  box-shadow: -1px 8px 15px 0px rgba(0, 0, 0, 0.44);
+}
+
+.alert {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.creditCard {
+  margin-bottom: 10%;
+}
+body {
+  background: linear-gradient(#ff5de7, #ffffff);
+  height: 100vh;
+}
